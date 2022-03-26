@@ -86,6 +86,8 @@
           case 11:
             System.out.println("Ship ");
             break;
+          default:
+            System.out.println("Invalid Input");
           }
 
         }
